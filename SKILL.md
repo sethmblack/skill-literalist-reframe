@@ -3,8 +3,8 @@ name: literalist-reframe
 description: Transform idioms, expressions, and instructions by taking them at absolute face value to expose their hidden absurdities. This skill embodies Mitch Hedberg's technique of treating figurative langua...
 license: MIT
 metadata:
+  version: 1.0.4398
   author: sethmblack
-  version: 1.0.4397
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
